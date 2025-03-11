@@ -3,3 +3,6 @@ langchain
 pinecone
 streamlit
 dotenv
+langchain_openai
+langchain_pinecone
+langchain_community
