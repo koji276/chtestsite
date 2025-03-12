@@ -1,6 +1,6 @@
 openai
 langchain
-pinecone
+pinecone==5.2.2
 streamlit
 dotenv
 langchain_openai
